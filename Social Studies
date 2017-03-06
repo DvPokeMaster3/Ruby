@@ -1,0 +1,78 @@
+#Hello, I am Danny Volk and I have created this project to Teach You about William A. Mitchell and Please refer to my slides for answers. Copy and paste the answers without the letters attached to the answers.
+
+#Quick Answers :)
+
+=begin
+
+1A. An Astronaught
+
+1B. A Dancer
+
+1C. An Inventor
+
+2A. Invent Tang
+
+2B. Ride on the Hubble
+
+2C. Invent the moon walk
+
+3A. The Mercury Food Program
+
+3B. Ride on the Hubble
+
+3C. Invent the moon walk
+
+=end
+
+print "Who was William A. Mitchell?"
+
+=begin
+A. An Astronaught
+
+B. A Dancer
+
+C. An Inventor
+
+=end
+
+first_name = gets.chomp!
+
+first_name.downcase!
+
+print "What did William A. Mitchell do?"
+
+=begin 
+
+A. Invented Tang
+
+B. Rode on the Hubble
+
+C. Invented the moon walk
+
+=end
+
+last_name = gets.chomp!
+
+last_name.downcase!
+
+print "Where was Willian A. Mitchells work implemented?"
+
+=begin 
+
+A. In Bruno Mar's Dancing
+
+B. In The Mercury Food Program
+
+C. In NASA Aeronautics
+
+=end
+
+city = gets.chomp!
+
+city.upcase!
+
+puts "You Said: William A. Mitchell was #{first_name} who #{last_name} and whos work was implemented In #{city}."
+
+puts "The Correct Answer was: William A. Mitchell was an inventor who invented tang and whos work was implemented In THE MERCURY FOOD PROGRAM."
+
+#Thank you for taking my quiz and Amazing Work. -Danny
